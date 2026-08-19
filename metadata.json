@@ -1,0 +1,6 @@
+{
+  "name": "AWS Zero-Trust Infra",
+  "description": "Air-gapped Zero-Trust AWS Infrastructure-as-Code templates for mission-critical industrial SCADA systems and serverless environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
